@@ -1,2 +1,2 @@
 #!/bin/bash
-LABLE=/boot
+ls -l /boot/bin
