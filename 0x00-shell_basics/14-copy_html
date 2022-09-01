@@ -1,2 +1,2 @@
 #!/bin/bash
-CD *.html ..
+cd *.html ..
